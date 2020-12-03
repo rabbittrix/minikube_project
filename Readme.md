@@ -18,3 +18,7 @@ kubectl get pods
 kubectl logs <name pod>
 kubectl apply -f <name>
 kubectl get service
+
+# git command
+
+git checkout -b main
